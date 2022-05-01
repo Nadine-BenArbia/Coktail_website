@@ -1,0 +1,14 @@
+.app__header {
+  background: url("./../../Assets/backgroundcoktail.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.app__header > p {
+  background-color: white;
+  width: 20%;
+}

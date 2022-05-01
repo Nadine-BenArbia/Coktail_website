@@ -1,0 +1,20 @@
+.app__footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border-style: groove;
+  padding: 2%;
+  margin-bottom: 1%;
+  background-color: #e3dc56;
+}
+.app__social {
+  display: flex;
+  justify-content: space-evenly;
+}
+.app__footer_info {
+  flex-direction: column;
+  display: flex;
+}
+span {
+  font-family: serif, sans-serif, monospace, cursive;
+}

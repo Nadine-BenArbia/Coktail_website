@@ -1,0 +1,16 @@
+.Action {
+  height: 1%;
+  display: flex;
+  justify-content: space-between;
+}
+.drinkimg {
+  height: 65%;
+}
+
+.app__card {
+  margin-bottom: 1%;
+}
+.app__card:hover {
+  box-shadow: 10px 8px 20px grey;
+  -webkit-transition: box-shadow 0.2s ease-in;
+}
